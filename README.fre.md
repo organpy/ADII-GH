@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README.en.md">EN</a>
+  <a href="README.md">EN</a>
 </p>
 
 <a href="#">
